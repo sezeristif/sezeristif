@@ -5,6 +5,4 @@
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sezeristif&&show_icons=true)](https://github.com/sezeristif)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sezeristif&layout=compact)
